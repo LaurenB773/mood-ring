@@ -13,16 +13,24 @@ It will even provide a scape goat if needed.
 ## Installation
 
 1. **Clone the Repository**:
-```git clone https://github.com/amfullmer/mood-ring.git```
+```plaintext
+git clone https://github.com/amfullmer/mood-ring.git
+```
 
-2. **Navigate to the Project Directory**:
-```cd mood-ring```
+3. **Navigate to the Project Directory**:
+```plaintext
+cd mood-ring
+```
 
-3. **Compile the Java Files**:
-```javac MoodRing.java```
+5. **Compile the Java Files**:
+```plaintext
+javac MoodRing.java
+```
 
-4. **Run the Program**:
-```java MoodRing```
+7. **Run the Program**:
+```plaintext
+java MoodRing
+```
 
 ## Usage
 
