@@ -2,7 +2,7 @@
 
 Mood Ring is a Java-based command-line program designed to make the unfortunate human condition of having emotions more tolerable. 
 An unjudging computer gently guides users through recording daily experiences, storing feedback in a text file, and generating a random color to brighten their day. 
-It will even provide a scape goat if needed.
+It will even provide a scapegoat if needed.
 
 ## Features
 
